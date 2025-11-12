@@ -8,7 +8,7 @@ A simple calculator built using **HTML, CSS, and JavaScript** with a colorful st
 - Stylish design with colored buttons and background  
 
 ## 🖼️ Screenshot
-![Calculator Screenshot](Calculator.png)
+![Calculator Screenshot](Calculato.png)
 
 ## 🚀 How to Run
 1. Download or clone the repository  
